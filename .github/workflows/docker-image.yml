@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 env:
   ECR_REPOSITORY: demo-sv
-  EKS_CLUSTER_NAME: kubernetes
+  EKS_CLUSTER_NAME: tfg-cluster
   AWS_REGION: us-east-1
 
 jobs:
