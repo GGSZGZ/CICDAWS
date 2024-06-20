@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: docker-compose-dotnet-core-and-mssql-app
-        image: ggszgz/frontend:v3aws
+        image: ivansegura/frontend:c9
         ports:
         - containerPort: 80
